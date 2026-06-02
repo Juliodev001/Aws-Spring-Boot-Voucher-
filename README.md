@@ -4,11 +4,14 @@ API REST desenvolvida com Spring Boot para gerenciamento de vouchers, com integr
 
 ## Tecnologias
 
-- Java 17
-- Spring Boot 2.6.8
-- Spring Data JPA
-- Spring Web
-- Maven
+| Tecnologia | Versão |
+|---|---|
+| Java | 17 |
+| Spring Boot | 2.6.8 |
+| Spring Boot Starter Web | 2.6.8 |
+| Spring Boot Starter Data JPA | 2.6.8 |
+| Spring Boot DevTools | 2.6.8 |
+| Maven | 3.8+ |
 
 ## Pré-requisitos
 
